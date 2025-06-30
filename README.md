@@ -1,5 +1,6 @@
 # customer_satisfaction_prediction
 live demo-(https://customersatisfactionprediction1.streamlit.app/)
+
 🧠 Project Overview
 This application uses a pre-trained machine learning model to predict binary customer satisfaction (Satisfied or Not Satisfied) based on:
 
@@ -51,9 +52,6 @@ Clone the repo or copy the files into a directory.
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install streamlit pandas scikit-learn numpy
 Ensure the following files are in the same directory:
 
@@ -64,11 +62,8 @@ satisfaction_model.pkl
 feature_columns.pkl
 
 Run the app:
-
-bash
-Copy
-Edit
 streamlit run customer.py
+
 📦 Sample Input Features
 Gender: Male / Female / Other
 
@@ -89,23 +84,6 @@ The model and its training logic are assumed to have been developed and saved ea
 Priti Priti
 Deployed with ❤️ on Streamlit
 
-Let me know if you want:
-
-This turned into a GitHub repository with requirements.txt
-
-A resume-friendly description
-
-A README version for the upgraded advanced model version
-
-Would you like any of those?
 
 
-
-
-
-
-
-
-
-Ask ChatGPT
 
